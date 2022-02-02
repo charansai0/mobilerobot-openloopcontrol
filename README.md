@@ -9,9 +9,10 @@ To develop a python control code to move the mobilerobot along the predefined pa
 
 ## Procedure
 
-Step1:
+Step1:  
 
 <br/>
+
 
 Step2:
 
@@ -89,10 +90,11 @@ if _name_ == '_main_':
 ## MobileRobot Movement Image:
 
 ![robo](./img/robomaster.png)
+## Start position
+![OUTPUT](https://github.com/charansai0/mobilerobot-openloopcontrol/blob/main/V.jpeg?raw=true)
+## End position
+![OUTPUT](https://github.com/charansai0/mobilerobot-openloopcontrol/blob/main/VVV.jpeg?raw=true)
 
-![OUTPUT]()
-![OUTPUT]()
-![OUTPUT]()
 
 
 <br/>
@@ -101,8 +103,9 @@ if _name_ == '_main_':
 <br/>
 
 ## MobileRobot Movement Video:
-
-Embed video here
+ 
+## video link:
+(https://drive.google.com/file/d/1JJtvYTXumGIbHnUX9b-qx_PxUiulqjkj/view?usp=sharing)
 
 <br/>
 <br/>
